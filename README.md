@@ -35,12 +35,11 @@
 <h3 align="left"> 🔵 Github Status  <h3> 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gohel2002&theme=radical&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gohel2002&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mkwparth&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkwparth&theme=radical&show_icons=true" />
 </div>
   <h2></h2>
 
- ![github graph](https://activity-graph.herokuapp.com/graph?username=Gohel2002&theme=react-dark&hide_border=true)
+ ![github graph](https://activity-graph.herokuapp.com/graph?username=mkwparth&theme=react-dark&hide_border=true)
 <br>
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" height="350px" width="500px">
+>
